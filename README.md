@@ -1,1 +1,4 @@
-# curso-kafka
+## curso-kafka
+
+* Java 11
+* Kafka
